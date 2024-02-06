@@ -47,3 +47,13 @@ Day 22 - Write a program to find the second-largest element in a list
 
 Day 23 - Create a program that checks if a key exists in a dictionary
 
+Day 24 - Write a program to remove vowels from a given string
+
+Day 25 - Create a program to concatenate two lists
+
+Day 26 - Write a program that uses a lambda function to square each element of a list
+
+Day 27 - Create a program that sorts a list of strings alphabetically
+
+
+
