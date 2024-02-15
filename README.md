@@ -61,5 +61,17 @@ Day 29 - Create a function that generates a random number between a given range.
 
 Day 30 - Create a function that finds the second smallest element in a list.
 
+Day 31 - Create a program that checks if a given string is a valid address.
+
+Day 32 - Create a function that calculates the average of a list of numbers.
+
+Day 33 - Write a test case for a function that checks if a number is prime.
+
+Day 34 - Write a Python program to merge two dictionaries.
+
+Day 35 - Write a simple unit test for a function that adds two numbers.
+
+Day 36 - Write a python program to check if two strings are anagrams.
+
 
 
