@@ -73,5 +73,11 @@ Day 35 - Write a simple unit test for a function that adds two numbers.
 
 Day 36 - Write a python program to check if two strings are anagrams.
 
+Day 37 - Write a program to iterate through a dictionary and print its keys and values.
 
+Day 38 - Write a program to flatten a nested list.
+
+Day 39 - Write a program to find the most common words in a text file.
+
+Day 40 - Write a function to find the largest common divisor of two numbers using a function.
 
