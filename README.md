@@ -81,3 +81,5 @@ Day 39 - Write a program to find the most common words in a text file.
 
 Day 40 - Write a function to find the largest common divisor of two numbers using a function.
 
+Day 41 - Write a program that uses recursion to generate all permutations of a list.
+
