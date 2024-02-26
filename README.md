@@ -83,3 +83,16 @@ Day 40 - Write a function to find the largest common divisor of two numbers usin
 
 Day 41 - Write a program that uses recursion to generate all permutations of a list.
 
+Day 42 - Write a program that uses a try-except block to handle division by zero.
+
+Day 43 - Program that removes all whitespaces from a given string.
+
+Day 44 - Program that reads an integer from the user and handles invalid inputs.
+
+Day 45 - Write a function to check if a number is prime.
+
+Day 46 - Write a function to check if a given list is sorted.
+
+Day 47 - Create a program that imports the math module and uses its functions.
+
+
