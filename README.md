@@ -95,4 +95,20 @@ Day 46 - Write a function to check if a given list is sorted.
 
 Day 47 - Create a program that imports the math module and uses its functions.
 
+Day 48 - Create a program that replaces specific words in a text with their synonyms.
+
+Day 49 - Create a program that implements the bubble sort algorithm.
+
+Day 50 - Create a program that finds the intersection and union of two sets.
+
+Day 51 - Create a program that counts the occurrences of each word in a text file.
+
+Day 52 - Create a progran that checks if a string is a palindrome.
+
+Day 53 - Create a program that allows users to draw on a canvas using GUI.
+
+Day 54 - Create a function to find all words in a sentence that start with a vowel.
+
+Day 55 - Create a function that takes a string and returns the reverse of each word.
+
 
