@@ -13,37 +13,37 @@ Day 5 - Write a program to find the maximum and minimum values in a list.
 
 Day 6 - Write a program to count the occurrences of a specific character in a string.
 
-Day 7 - Write a program to check if a number is positive, negative or zero.
+[Day 7 - Write a program to check if a number is positive, negative or zero.](PythonCodeChallengeDay7.ipynb)
 
-Day 8 - Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.
+[Day 8 - Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.](PythonCodeChallengeDay8.ipynb)
 
-Day 9 - Write a program to check if a number is even or odd.
+[Day 9 - Write a program to check if a number is even or odd.](PythonCodeChallengeDay9.ipynb)
 
 [Day 10 - Write a program to remove duplicates from a list.](PythonCodeChallengeDay10.ipynb)
 
-Day 11 - Write a program to print the multiplication table of a given number.
+[Day 11 - Write a program to print the multiplication table of a given number.](PythonCodeChallengeDay11.ipynb)
 
-Day 12 - Write a program to reverse a given string.
+[Day 12 - Write a program to reverse a given string.](PythonCodeChallengeDay12.ipynb)
 
-Day 13 - Write a program to shuffle the elements of a list randomly.
+[Day 13 - Write a program to shuffle the elements of a list randomly.](PythonCodeChallengeDay13.ipynb)
 
-Day 14 - Write a program to print the first n numbers of a Fibonacci sequence.
+[Day 14 - Write a program to print the first n numbers of a Fibonacci sequence.](PythonCodeChallengeDay14.ipynb)
 
-Day 15 - Create a program that checks if a year is a leap year.
+[Day 15 - Create a program that checks if a year is a leap year.](PythonCodeChallengeDay15.ipynb)
 
-Day 16 - Write a function that counts the frequency of each word in a sentence.
+[Day 16 - Write a function that counts the frequency of each word in a sentence.](PythonCodeChallengeDay16.ipynb)
 
-Day 17 - Create a program that capitalizes the first letter of each word in a sentence.
+[Day 17 - Create a program that capitalizes the first letter of each word in a sentence.](PythonCodeChallengeDay17.ipynb)
 
-Day 18 - Create a program to find the largest among three numbers.
+[Day 18 - Create a program to find the largest among three numbers.](PythonCodeChallengeDay18.ipynb)
 
-Day 19 - Write a function to calculate the factorial of a number.
+[Day 19 - Write a function to calculate the factorial of a number.](PythonCodeChallengeDay19.ipynb)
 
-Day 20 - Write a function that takes a list of numbers and returns a new list containing only the even numbers.
+[Day 20 - Write a function that takes a list of numbers and returns a new list containing only the even numbers.](PythonCodeChallengeDay20.ipynb)
 
 Day 21 - Create a program to remove a specific element from a set.
 
-[Day 22 - Write a program to find the second-largest element in a list.](https://github.com/2023LeslieK/WWC2024-PythonChallenge/blob/main/PythonCodeChallengeDay22.ipynb)
+[Day 22 - Write a program to find the second-largest element in a list.](PythonCodeChallengeDay22.ipynb)
 
 Day 23 - Create a program that checks if a key exists in a dictionary.
 
