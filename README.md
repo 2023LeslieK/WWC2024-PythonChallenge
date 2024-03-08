@@ -1,11 +1,11 @@
 # WWC2024-PythonChallenge
 Participating in the Women Who Code 2024 Python Days of Code Challenge
 
-Day 1 - Create a program that swaps the value of two variables.
+[Day 1 - Create a program that swaps the value of two variables.](PythonCodeChallengeDay1.ipynb)
 
-Day 2 - Create a program to calcualte the area of a circle given its radius.
+[Day 2 - Create a program to calcualte the area of a circle given its radius.](PythonCodeChallengeDay2.ipynb)
 
-Day 3 - Write a function to count the number of vowels in a given string.
+[Day 3 - Write a function to count the number of vowels in a given string.]
 
 Day 4 - Write a program to find the sum of all elements in a list.
 
@@ -19,7 +19,7 @@ Day 8 - Write a function that accepts a string and calculates the number of uppe
 
 Day 9 - Write a program to check if a number is even or odd.
 
-Day 10 - Write a program to remove duplicates from a list.
+[Day 10 - Write a program to remove duplicates from a list.](PythonCodeChallengeDay10.ipynb)
 
 Day 11 - Write a program to print the multiplication table of a given number.
 
