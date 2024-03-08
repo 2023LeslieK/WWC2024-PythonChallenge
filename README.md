@@ -45,21 +45,21 @@ Participating in the Women Who Code 2024 Python Days of Code Challenge
 
 [Day 22 - Write a program to find the second-largest element in a list.](PythonCodeChallengeDay22.ipynb)
 
-Day 23 - Create a program that checks if a key exists in a dictionary.
+[Day 23 - Create a program that checks if a key exists in a dictionary.](PythonCodeChallengeDay23.ipynb)
 
-Day 24 - Write a program to remove vowels from a given string.
+[Day 24 - Write a program to remove vowels from a given string.](PythonCodeChallengeDay24.ipynb)
 
-Day 25 - Create a program to concatenate two lists.
+[Day 25 - Create a program to concatenate two lists.](PythonCodeChallengeDay25.ipynb)
 
-Day 26 - Write a program that uses a lambda function to square each element of a list.
+[Day 26 - Write a program that uses a lambda function to square each element of a list.](PythonCodeChallengeDay26.ipynb)
 
-Day 27 - Create a program that sorts a list of strings alphabetically.
+[Day 27 - Create a program that sorts a list of strings alphabetically.](PythonCodeChallengeDay27.ipynb)
 
-Day 28 - Create a program that removes the nth element from a list.
+[Day 28 - Create a program that removes the nth element from a list.](PythonCodeChallengeDay28.ipynb)
 
-Day 29 - Create a function that generates a random number between a given range.
+[Day 29 - Create a function that generates a random number between a given range.](PythonCodeChallenge29.ipynb)
 
-Day 30 - Create a function that finds the second smallest element in a list.
+[Day 30 - Create a function that finds the second smallest element in a list.](PythonCodeChallengeDay30.ipynb)
 
 Day 31 - Create a program that checks if a given string is a valid address.
 
