@@ -43,7 +43,7 @@ Day 20 - Write a function that takes a list of numbers and returns a new list co
 
 Day 21 - Create a program to remove a specific element from a set.
 
-Day 22 - Write a program to find the second-largest element in a list.(https://github.com/2023LeslieK/WWC2024-PythonChallenge/blob/main/PythonCodeChallengeDay22.ipynb)
+[Day 22 - Write a program to find the second-largest element in a list.](https://github.com/2023LeslieK/WWC2024-PythonChallenge/blob/main/PythonCodeChallengeDay22.ipynb)
 
 Day 23 - Create a program that checks if a key exists in a dictionary.
 
