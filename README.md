@@ -67,49 +67,49 @@ Day 31 - Create a program that checks if a given string is a valid address.
 
 Day 33 - Write a test case for a function that checks if a number is prime.
 
-Day 34 - Write a Python program to merge two dictionaries.
+[Day 34 - Write a Python program to merge two dictionaries.](PythonCodeChallengeDay34.ipynb)
 
 Day 35 - Write a simple unit test for a function that adds two numbers.
 
-Day 36 - Write a python program to check if two strings are anagrams.
+[Day 36 - Write a python program to check if two strings are anagrams.](PythonCodeChallengeDay36.ipynb)
 
-Day 37 - Write a program to iterate through a dictionary and print its keys and values.
+[Day 37 - Write a program to iterate through a dictionary and print its keys and values.](PythonCodeChallengeDay37.ipynb)
 
-Day 38 - Write a program to flatten a nested list.
+[Day 38 - Write a program to flatten a nested list.](PythonCodeChallengeDay38.ipynb)
 
 Day 39 - Write a program to find the most common words in a text file.
 
-Day 40 - Write a function to find the largest common divisor of two numbers using a function.
+[Day 40 - Write a function to find the largest common divisor of two numbers using a function.](PythonCodeChallengeDay40.ipynb)
 
 Day 41 - Write a program that uses recursion to generate all permutations of a list.
 
-Day 42 - Write a program that uses a try-except block to handle division by zero.
+[Day 42 - Write a program that uses a try-except block to handle division by zero.](PythonCodeChallengeDay42.ipynb)
 
-Day 43 - Program that removes all whitespaces from a given string.
+[Day 43 - Program that removes all whitespaces from a given string.](PythonCodeChallengeDay43.ipynb)
 
-Day 44 - Program that reads an integer from the user and handles invalid inputs.
+[Day 44 - Program that reads an integer from the user and handles invalid inputs.](PythonCodeChallengeDay44.ipynb)
 
-Day 45 - Write a function to check if a number is prime.
+[Day 45 - Write a function to check if a number is prime.](PythonCodeChallengeDay45.ipynb)
 
-Day 46 - Write a function to check if a given list is sorted.
+[Day 46 - Write a function to check if a given list is sorted.](PythonCodeChallengeDay46.ipynb)
 
-Day 47 - Create a program that imports the math module and uses its functions.
+[Day 47 - Create a program that imports the math module and uses its functions.](PythonCodeChallengeDay47.ipynb)
 
 Day 48 - Create a program that replaces specific words in a text with their synonyms.
 
-Day 49 - Create a program that implements the bubble sort algorithm.
+[Day 49 - Create a program that implements the bubble sort algorithm.](PythonCodeChallengeDay49.ipynb)
 
-Day 50 - Create a program that finds the intersection and union of two sets.
+[Day 50 - Create a program that finds the intersection and union of two sets.](PythonCodeChallengeDay50.ipynb)
 
 Day 51 - Create a program that counts the occurrences of each word in a text file.
 
-Day 52 - Create a progran that checks if a string is a palindrome.
+[Day 52 - Create a progran that checks if a string is a palindrome.](PythonCodeChallengeDay52.ipynb)
 
 Day 53 - Create a program that allows users to draw on a canvas using GUI.
 
-Day 54 - Create a function to find all words in a sentence that start with a vowel.
+[Day 54 - Create a function to find all words in a sentence that start with a vowel.](PythonCodeChallengeDay54.ipynb)
 
-Day 55 - Create a function that takes a string and returns the reverse of each word.
+[Day 55 - Create a function that takes a string and returns the reverse of each word.](PythonCodeChallengeDay55.ipynb)
 
 Day 56 - Create a function to extract all URLs from a given text using regular expressions.
 
