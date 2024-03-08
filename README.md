@@ -5,13 +5,13 @@ Participating in the Women Who Code 2024 Python Days of Code Challenge
 
 [Day 2 - Create a program to calcualte the area of a circle given its radius.](PythonCodeChallengeDay2.ipynb)
 
-[Day 3 - Write a function to count the number of vowels in a given string.]
+[Day 3 - Write a function to count the number of vowels in a given string.](PythonChallengeDay3.ipynb)
 
-Day 4 - Write a program to find the sum of all elements in a list.
+[Day 4 - Write a program to find the sum of all elements in a list.](PythonChallengeDay4.ipynb)
 
-Day 5 - Write a program to find the maximum and minimum values in a list.
+[Day 5 - Write a program to find the maximum and minimum values in a list.](PythonChallengeDay5.ipynb)
 
-Day 6 - Write a program to count the occurrences of a specific character in a string.
+[Day 6 - Write a program to count the occurrences of a specific character in a string.](PythonCodeChallengeDay7.ipynb)
 
 [Day 7 - Write a program to check if a number is positive, negative or zero.](PythonCodeChallengeDay7.ipynb)
 
@@ -41,7 +41,7 @@ Day 6 - Write a program to count the occurrences of a specific character in a st
 
 [Day 20 - Write a function that takes a list of numbers and returns a new list containing only the even numbers.](PythonCodeChallengeDay20.ipynb)
 
-Day 21 - Create a program to remove a specific element from a set.
+[Day 21 - Create a program to remove a specific element from a set.](PythonCodeChallengeDay21.ipynb)
 
 [Day 22 - Write a program to find the second-largest element in a list.](PythonCodeChallengeDay22.ipynb)
 
