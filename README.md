@@ -65,11 +65,11 @@ Day 31 - Create a program that checks if a given string is a valid address.
 
 [Day 32 - Create a function that calculates the average of a list of numbers.](PythonCodeChallengeDay32.ipynb)
 
-Day 33 - Write a test case for a function that checks if a number is prime.
+[Day 33 - Write a test case for a function that checks if a number is prime.](PythonCodeChallengeDay33.ipynb)
 
 [Day 34 - Write a Python program to merge two dictionaries.](PythonCodeChallengeDay34.ipynb)
 
-Day 35 - Write a simple unit test for a function that adds two numbers.
+[Day 35 - Write a simple unit test for a function that adds two numbers.](PythonCodeChallengeDay35.ipynb)
 
 [Day 36 - Write a python program to check if two strings are anagrams.](PythonCodeChallengeDay36.ipynb)
 
