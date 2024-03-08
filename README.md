@@ -3,7 +3,7 @@ Participating in the Women Who Code 2024 Python Days of Code Challenge
 
 [Day 1 - Create a program that swaps the value of two variables.](PythonCodeChallengeDay1.ipynb)
 
-[Day 2 - Create a program to calcualte the area of a circle given its radius.](PythonCodeChallengeDay2.ipynb)
+[Day 2 - Create a program to calculate the area of a circle given its radius.](PythonCodeChallengeDay2.ipynb)
 
 [Day 3 - Write a function to count the number of vowels in a given string.](PythonChallengeDay3.ipynb)
 
@@ -112,5 +112,13 @@ Day 53 - Create a program that allows users to draw on a canvas using GUI.
 [Day 55 - Create a function that takes a string and returns the reverse of each word.](PythonCodeChallengeDay55.ipynb)
 
 Day 56 - Create a function to extract all URLs from a given text using regular expressions.
+
+Day 57 - Create a function that returns the key with the maximum value in a dictionary.
+
+Day 58 - Create a function that converts a string to an integer and handles ValueError.
+
+Day 59 -
+
+Day 60 -
 
 
