@@ -115,10 +115,14 @@ Day 56 - Create a function to extract all URLs from a given text using regular e
 
 Day 57 - Create a function that returns the key with the maximum value in a dictionary.
 
-Day 58 - Create a function that converts a string to an integer and handles ValueError.
+[Day 58 - Create a function that converts a string to an integer and handles ValueError.](PythonCodeChallengeDay58.ipynb)
 
-Day 59 - Create a function that checks if a number is a perfect square.
+[Day 59 - Create a function that checks if a number is a perfect square.](PythonCodeChallengeDay59.ipynb)
 
-Day 60 -
+Day 60 - Create a class representing a simple bank account with deposit and withdraw methods.
+
+Day 61 - Create a program to implement a stack using a list.
+
+
 
 
