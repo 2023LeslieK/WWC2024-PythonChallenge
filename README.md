@@ -61,7 +61,7 @@ Participating in the Women Who Code 2024 Python Days of Code Challenge
 
 [Day 30 - Create a function that finds the second smallest element in a list.](PythonCodeChallengeDay30.ipynb)
 
-Day 31 - Create a program that checks if a given string is a valid address.
+[Day 31 - Create a program that checks if a given string is a valid address.](PythonCodeChallengeDay31.ipynb)
 
 [Day 32 - Create a function that calculates the average of a list of numbers.](PythonCodeChallengeDay32.ipynb)
 
